@@ -29,4 +29,4 @@ The admin of the vaults received the refund ([this](https://stellar.expert/explo
 
 As of today, Feb 27th, users of both vaults are fully compensated, and everything is as if nothing had ever happened. We donated the funds to restore the rate on both vaults before it was refunded by Scrip3, but all the merit should be given to the Script3 team because they coordinated a remediation for users.
 
-It's also important to make it clear that: we won't cover any future loses because the tokenized vaults are designed to just represent positions in something else, so if that goes down in value then the tokenized vaults value will go down to. Users need to think if they are ok with that risk or not.
+It's also important to make it clear that we won't cover any future losses because the tokenized vaults are designed to just represent positions in something else, so if that goes down in value, then the tokenized vault's value will go down too. Users need to think about whether they are ok with that risk or not.
